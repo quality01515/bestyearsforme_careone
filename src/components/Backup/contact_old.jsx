@@ -131,7 +131,7 @@ export const Contact = (props) => {
 
         <p className="text-3xl font-[600] text-black underline"> For United States Residents: HIPAA Agreement</p> 
         <p className="text-2xl font-[500] text-black ml-2">1. I agree to the sharing of my health information electronically with others involved in my care,
-        including the Providers and eQ8Health Corporation d/b/a CareONE Concierge (“CareONE”). I
+        including the Providers and eQ8Health Corporation d/b/a CareONE Health (“CareONE”). I
         understand that federal and state law requires health care providers to protect the privacy and
         the security of my personal health information. I understand that CareONE and Providers will
         take steps to make sure that my health information is not seen by anyone who should not see it.
@@ -572,7 +572,7 @@ export const Contact = (props) => {
       <div id="footer">
         <div className="container text-center">
           <p>
-            Copyright © 2024 CareONE Concierge – All Rights Reserved{" "}
+            Copyright © 2024 CareONE Health – All Rights Reserved{" "}
           </p>
         </div>
       </div>
