@@ -97,7 +97,7 @@
     {
       "icon": "fa fa-heart",
       "name": "Remote Patient Monitoring",
-      "text": "You may also choose to have a pharmacist monitor your medications and look for less-expensive choices that you can afford."
+      "text": "You may choose to have a clinical specialist monitor your blood pressure, weight, glucose levels, heart and other critical areas of your health."
     },
     {
       "icon": "fa fa-medkit",
@@ -162,7 +162,7 @@
   "Footer": {
     "address": "612 E Paces Ferry Rd NE Atlanta GA 30305",
     "phone": "(888) 614-4661",
-    "email": "info@careone-concierge.com",
+    "email": "Info@CareONE-Concierge.com",
     "facebook": "https://www.facebook.com/p/CareONE-Health-100063884209916/",
     "linkedin": "https://www.linkedin.com/company/careone-concierge/",
     "instagram": "https://www.instagram.com/careone_concierge/?igsh=ZzMxNWNycmw0M3U3#"

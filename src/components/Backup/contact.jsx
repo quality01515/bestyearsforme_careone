@@ -540,7 +540,7 @@ export const Contact = (props) => {
                 <span>
                   <i className="fa fa-envelope-o"></i> Email
                 </span>{" "}
-                <a href="mailto:info@careone-concierge.com">{props.data ? props.data.email : "loading"}</a>
+                <a href="mailto:Info@CareONE-Concierge.com">{props.data ? props.data.email : "loading"}</a>
               </p>
             </div>
           </div>
