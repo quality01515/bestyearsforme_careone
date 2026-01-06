@@ -9,6 +9,27 @@
     gtag('js', new Date());
     gtag('config', 'AW-17840362442');
   </script>
+  
+  <!-- Microsoft Advertising UET Tag -->
+  <script>
+    (function(w,d,t,r,u)
+    {
+      var f,n,i;
+      w[u]=w[u]||[],f=function()
+      {
+        var o={ti:"187228171", enableAutoSpaTracking: true};
+        o.q=w[u],w[u]=new UET(o),w[u].push("pageLoad")
+      },
+      n=d.createElement(t),n.src=r,n.async=1,n.onload=n.onreadystatechange=function()
+      {
+        var s=this.readyState;
+        s&&s!=="loaded"&&s!=="complete"||(f(),n.onload=n.onreadystatechange=null)
+      },
+      i=d.getElementsByTagName(t)[0],i.parentNode.insertBefore(n,i)
+    })
+    (window,document,"script","https://bat.bing.com/bat.js","uetq");
+  </script>
+
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon" />
